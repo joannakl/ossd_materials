@@ -105,22 +105,34 @@ your local copy of the repository to the latest version of the remote repository
 <tr>
 <td colspan=5 align=center>
 
-__Resolving meger conflincts__
+__Resolving merge conflincts__
 
 </td>
 </tr>
 
 <tr>
 <td>4 </td>
-<td colspan=4>
+<td colspan=4 >
 
-- In your local repository you should have the file called `README.md` right now. If not,
-execute `git pull` to synchronize your local repository with the remote one.
+- Run `git pull` to synchronize your local repository with the remote one.
+- In your local repository you should have the file called `README.md` right now.
 - Edit the `README.md` file by adding your name to the file right below the name of the
 team.
 - Commit the changes and push them to the remote repository.  
 </td>
+</tr>
 
+<tr>
+<td colspan=5>
+At this point, multiple users modified the same lines of the same file. `git` can no
+longer resolve these changes on its own. The human-user intervention is necessary.
+This is a __merge conflict__. To resolve it, the user has to edit the file manually
+and decide which of the changes should be merged and which should be removed.
+
+As you are resolving the merge conflicts manually, make sure that all of your
+team-mates names end up being listed in the `README.md` file exactly once.
+
+</td>
 </tr>
 
 <tr>
