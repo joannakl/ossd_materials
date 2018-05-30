@@ -54,14 +54,31 @@ your hand and we will try to help out as quickly as we can.
 <tr> <th>round</th><th> member 1</th><th>  member 2</th><th>  member 3 </th><th>  member 4 </th> </tr>
 <tr>
 <td>1 </td>
-<td colspan=4>  clone the team repository to a local machine<br>
-`git clone REPO_URL` </td>
+<td colspan=4>  
+
+clone the team repository to a local machine
+
+`git clone REPO_URL`
+
+</td>
 </tr>
 <tr>
 <td>2 </td>
-<td > create a `README.md` fie, it should contain a top level heading with a team name, commit the file and push it to the remote repository  </td>
-<td> create a `LICENSE.txt` file, select one of the available software licenses, commit the file and push it to the remote repository  </td>
-<td> use [Wikimedia Commons](https://commons.wikimedia.org/) to locate an image that will serve as a mascot for your team; download the file, add it to the repository and commit the file, (remember where you got the file from, you will need that information later) </td>
+<td >
+
+create a `README.md` fie, it should contain a top level heading with a team name, commit the file and push it to the remote repository  
+
+</td>
+<td>
+
+create a `LICENSE.txt` file, select one of the available software licenses, commit the file and push it to the remote repository  
+
+</td>
+<td>
+
+use [Wikimedia Commons](https://commons.wikimedia.org/) to locate an image that will serve as a mascot for your team; download the file, add it to the repository and commit the file, (remember where you got the file from, you will need that information later)
+
+</td>
 <td> </td>
 </tr>
 <tr>
