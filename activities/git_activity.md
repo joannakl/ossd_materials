@@ -86,7 +86,6 @@ use [Wikimedia Commons](https://commons.wikimedia.org/) to locate an image that 
 <td colspan=4>
 
 - create a new empty file named with your own name (I would create a file called `joanna.md`), for example,
-
 - add the file to the repository, commit and push changes to the remote repository,
 
 </td>
@@ -116,13 +115,10 @@ __Resolving meger conflincts__
 <td colspan=4>
 
 - In your local repository you should have the file called `README.md` right now. If not,
-execute `git pull` to synchronize your local repository with the remote one. <br>
-
+execute `git pull` to synchronize your local repository with the remote one.
 - Edit the `README.md` file by adding your name to the file right below the name of the
-team.  <br>
-
-- Commit the changes and push them to the remote repository.  <br>
-
+team.
+- Commit the changes and push them to the remote repository.  
 </td>
 
 </tr>
