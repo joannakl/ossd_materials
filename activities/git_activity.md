@@ -68,7 +68,8 @@ your hand and we will try to help out as quickly as we can.
 <td>3 </td>
 <td colspan=4>
 
-- create a new empty file named with your own name (I would create a file called `joanna.md`), for example, <br>
+- create a new empty file named with your own name (I would create a file called `joanna.md`), for example,
+
 - add the file to the repository, commit and push changes to the remote repository,
 
 </td>
@@ -76,16 +77,20 @@ your hand and we will try to help out as quickly as we can.
 <tr>
 
 <td colspan=5>
+
 In the last two steps, most of you should have encountered some issues when you tried pushing to the remote.
 Since several people push changes to the same repository, most of you tried to push after someone else modified that remote repository. In many cases `git` can figure out how to combine
 the changes made by different people. But, you will need to execute `git pull` to update
 your local copy of the repository to the latest version of the remote repository.
+
 </td>
 </tr>
 
 <tr>
 <td colspan=5 align=center>
+
 __Resolving meger conflincts__
+
 </td>
 </tr>
 
@@ -93,7 +98,7 @@ __Resolving meger conflincts__
 <td>4 </td>
 <td colspan=4>
 
-- In your local repository you should have the file called <code>README.md</code> right now. If not,
+- In your local repository you should have the file called `README.md` right now. If not,
 execute `git pull` to synchronize your local repository with the remote one. <br>
 
 - Edit the `README.md` file by adding your name to the file right below the name of the
