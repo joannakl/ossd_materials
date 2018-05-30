@@ -92,7 +92,8 @@ __Resolving meger conflincts__
 <tr>
 <td>4 </td>
 <td colspan=4>
-- In your local repository you should have the file called `README.md` right now. If not,
+
+- In your local repository you should have the file called <code>README.md</code> right now. If not,
 execute `git pull` to synchronize your local repository with the remote one. <br>
 
 - Edit the `README.md` file by adding your name to the file right below the name of the
