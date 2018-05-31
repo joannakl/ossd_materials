@@ -52,6 +52,15 @@ your hand and we will try to help out as quickly as we can.
 
 <table>
 <tr> <th>round</th><th> member 1</th><th>  member 2</th><th>  member 3 </th><th>  member 4 </th> </tr>
+
+<tr>
+<td colspan=5 align=center>
+
+__Working with multiple files and multiple users__
+
+</td>
+</tr>
+
 <tr>
 <td>1 </td>
 <td colspan=4>  
@@ -124,6 +133,7 @@ team.
 
 <tr>
 <td colspan=5>
+
 At this point, multiple users modified the same lines of the same file. `git` can no
 longer resolve these changes on its own. The human-user intervention is necessary.
 This is a __merge conflict__. To resolve it, the user has to edit the file manually
@@ -136,13 +146,46 @@ team-mates names end up being listed in the `README.md` file exactly once.
 </tr>
 
 <tr>
-<td>4 </td>
-<td colspan=4>
+<td colspan=5 align=center>
 
-- run the command `git remote -v` and add the result to the body of the newly created file (include the above command in your file so that it is clear which output corresponds to which command);
+__Managing forks and remotes__
 
 </td>
 </tr>
+
+
+<tr>
+<td>5 </td>
+<td colspan=4>
+
+- fork the team's repository to your own account  
+
+- add your own fork address as the remote for your local repository: in the local repository run the command
+
+    `git remote add myfork URL_TO_THE_FORK`
+
+    where `URL_TO_THE_FORM` is replaced by the actual url
+
+- run the command
+
+    `git remote -v`
+
+    and record the results in the body of your file (the one with your name in it)
+
+- commit the changes to the file that you just edited  and push them to the `myfork` remote
+
+    `git push myfork master`
+
+- look at the files stored in the original repository in the course organization and in
+your private fork, they should be different
+
+</td>
+
+</tr>
+
+
+
+
 
 
 
