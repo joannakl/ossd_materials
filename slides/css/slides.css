@@ -1,0 +1,152 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+body {
+    font-family: 'Droid Sans', sans-serif;
+    margin:0;
+    padding:0;
+}
+h1, h2, h3 {
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold;
+    padding:0;
+    margin:0;
+}
+
+.remark-slide-content > h1:first-of-type {
+  margin-top: 0.5ex;
+}
+
+.author {
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom: 3em
+}
+
+
+.license {
+    position: absolute;
+    bottom: 0em;
+    font-size: 70%;
+}
+
+.footnote {
+    position: absolute;
+    bottom: 0em;
+    font-size: 70%;
+}
+
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+/*remove extra space from top of the slide*/
+.remark-slide-content {
+  padding-top: 0;
+}
+
+.tiny { font-size: 50%; }
+.small { font-size: 70%; }
+.smaller { font-size: 85%; }
+.big { font-size: 140%; }
+.large { font-size: 200%; }
+.huge { font-size: 300%; }
+.code{font-family: 'Ubuntu Mono'; }
+.center { text-align: center; }
+.left { text-align: left; }
+.right { text-align: right; }
+.center70 {
+    text-align:center;
+    width: 70%;
+}
+.highlight{
+    background-color: #FECA3F;
+}
+
+
+.section {
+    background-color: #CABFDC;
+    padding: 5em;
+}
+
+/* code output formatting */
+.output {
+  margin: 1px;
+  padding: 0 0 0 0.5em;
+  /*border-style: solid; border-color: #AAA; border-width:1px;*/
+  background-color: #CCC;
+}
+
+/* code output formatting */
+.box {
+  margin: 0 0.5em 0 0.5em;
+  padding: 0.5em;
+  border-style: solid; border-color: #AAA; border-width:3px;
+  background-color: #CABFDC;
+}
+
+
+/* Two-column layout */
+.left-column2 {
+width: 44%;
+float: left;
+padding:1% 5% 1% 1%;
+}
+
+.right-column2 {
+width: 44%;
+float: right;
+padding:1% 1% 1% 5%;
+}
+
+.below-column2 {
+  clear: both;
+}
+
+
+
+
+/* Two-column layout */
+.left-column2-small {
+width: 24%;
+float: left;
+padding:1% 5% 1% 1%;
+}
+
+.right-column2-large {
+width: 64%;
+float: right;
+padding:1% 1% 1% 5%;
+}
+
+
+
+
+@media print {
+  .remark-slide-scaler {
+    width: 100% !important;
+    height: 100% !important;
+    transform: scale(1) !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+}
+
+table {
+    /*font-family: arial, sans-serif;*/
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 2px;
+}
+/*
+tr:nth-child(odd), td {
+    border: 1px solid #ffffff;
+    background-color: #eeeeee;
+}*/

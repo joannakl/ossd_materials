@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bug/Issue Tracker</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link href="css/slides.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# CSCI-UA 480.10: OSSD
+
+<br>
+
+## Bug/Issue Trackers
+
+.author[
+Instructor: Joanna Klukowska <br>
+]
+
+
+
+.license[
+Unless noted otherwise all content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+]
+
+
+---
+# Bug/Issue Tracker
+
+A __bug tracker__ is a software application that keeps track of reported software bugs.
+
+An __issue tracker__ is a software application that keeps track of issues.
+
+<br><br>
+
+--
+
+.large[.center[
+bugs vs. issues ?
+]]
+
+---
+# Components of a bug/issue tracker system
+
+- Database of bugs/issues
+
+- Typical facts about bugs/issues
+
+    - time/date of report
+    - identity of the person reporting it
+    - severity
+    - description of the _incorrect_ behavior observed
+    - details about how to reproduce it
+    - details about environment in which the bug was observed
+    - status of the bug (new, assigned, resolved, closed, ...)
+    - indentity of the person assigned to resolve the bug
+
+---
+# Bug lifecycle (on Bugzilla)
+
+.center[
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Bugzilla_Lifecycle_color-aqua.png" width=40% alt="Bugzilla 3.0 bug lifecycle"/>
+
+.small[
+[Bugzilla's lifecycle in color](https://commons.wikimedia.org/wiki/File:Bugzilla_Lifecycle_color-aqua.png),
+25 September 2007,
+Author: [Nyco](https://commons.wikimedia.org/wiki/User:Nyco) ,
+Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license.
+]
+]
+
+
+
+---
+# Bug Triage
+
+Bug Triage (or Grooming or Gardening) is the process by which projects:
+- confirm new bugs that have been submitted
+    - is it a new bug report or a duplicate one
+- gather more information about the bug when necessary
+- prioritize confirmed bugs
+- review bugs to ensure that they are being worked on
+- retire old bugs
+
+--
+
+Triaging bugs is a valuable contribution to the project.
+
+Triaging guides:
+
+- [Gnome - Triage Guide](https://wiki.gnome.org/Bugsquad/TriageGuide)
+
+- Wikimedia's [Bug management / How to triage](https://www.mediawiki.org/wiki/Bug_management/How_to_triage)
+
+- Mageia [Triage guide](https://wiki.mageia.org/en/Triage_guide)
+
+- [Triaging Bugs for Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Triaging_Bugs_for_Firefox)
+
+- Chromium [Triage Best Practices](https://www.chromium.org/for-testers/bug-reporting-guidelines/triage-best-practices)
+
+---
+# www.codetriage.com
+
+The [CodeTriage](https://www.codetriage.com/) site lists hundreds of projects and their issues that need triaging.
+
+--
+
+TODO
+
+- sign up to receive triage emails
+
+- triage some issues
+
+---
+# Let's triage the issues reported for the course website
+
+- Proper way of marking duplicates:
+
+    Duplicate of #5
+
+    (where #5 is the number of original bug)
+
+- Don't close issues without explaining why they can be (or should be) closed
+
+- Be careful when using # - #6 becomes a link to the issue #6 (this makes little sense when you are talking abut Class #6)
+
+- Remember to use markdown formatting [link](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+---
+
+# Sources and Extra Readings
+
+
+- [Bug tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system) on Wikipedia.
+
+- [How to fix a bug in open source software](https://opensource.com/life/16/8/how-get-bugs-fixed-open-source-software) by Richard Schneeman
+
+- [Comparison of issue-tracking systems](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) on Wikipedia
+
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) by Simon Tatham
+
+
+- [Responsible Bug Reporting and Triage](https://blog.smartbear.com/software-quality/responsible-bug-reporting-and-triage/)
+
+- [Bug Gardening](http://foss2serve.org/index.php/Bug_Gardening) activity
+
+
+
+    </textarea>
+     <script src="js/remark.js" type="text/javascript">
+    </script>
+    <script src="js/remark_conf.js" type="text/javascript">
+    </script>
+
+  </body>
+</html>

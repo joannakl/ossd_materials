@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>git activity</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link href="css/slides.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# CSCI-UA 480.10: OSSD
+
+<br>
+
+## `git` activity 
+
+.author[
+Instructor: Joanna Klukowska <br>
+] 
+
+
+
+.license[
+Unless noted otherwise all content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+]
+
+---
+# Work in groups
+
+- get in groups of 3-4 students
+
+- everybody should be able to work on their own computer 
+
+
+
+---
+# setup your team's repository
+
+
+__one team member__ 
+
+Each team has a repository in the course organization. 
+
+Pick a single team representative to execute the following tasks.
+
+- Add a README.md file to that repository - the file should contain the team name 
+(you can pick whatever name you wish) as the top level heading. For now, it should not
+contain anything else.
+
+- Add a license to the repository.  
+
+
+---
+# clone 
+
+__each member__
+
+Each member of the team should 
+
+- clone the team's repository to their local machine
+
+- create a new file named with the team member's name (I would create a file called 
+`joanna.md`), 
+
+- run the command 
+
+    `git remote -v`
+    
+    and add the result to the body of the newly created file (include the above command in your file
+    so that it is clear which output corresponds to which command)   
+    
+- add the new file to the repository, commit the changes and push them to the remote repository
+
+    ```
+    git add NAME_OF_FILE
+    git commit -m "adding NAME's file"
+    git push origin master
+    ``` 
+
+Talk to your team members to make sure that everybody got similar results and behavior. 
+
+---
+
+# fork
+
+__each member__
+
+Each member of the team should 
+
+- fork the team's repository to their own account  
+
+- add your own fork address as the remote for your local repository: in the local repository run the command 
+
+    `git remote add myfork URL_TO_THE_FORK` 
+    
+    where `URL_TO_THE_FORM` is replaced by the actual url 
+
+- run the command 
+
+    `git remote -v`
+
+    and record the results in the body of your file (the one with your name in it)
+
+
+---
+
+# fork continuted 
+
+__each member__
+    
+- add your team members' fork addresses as the remotes for your
+local repository; for each team member
+    - get the url for their fork
+    - run the command 
+    
+        `git remote add TEAM_MEMBER_NAME URL_TO_THE_TEAM_MEMBER_FORK`
+        
+        (replace the placeholders in upper-case by the actual values) 
+        
+- run the command 
+
+    `git remote -v` 
+    
+    and record the results in the body of your file 
+    
+Talk to your team members to make sure that everybody got similar results and behavior, and that everybody completed this part.
+
+---
+# a new branch
+
+__one member__ 
+
+- create a new branch in your local repository 
+
+    `git branch another_branch`
+    
+- run the command 
+    
+    `git branch` 
+    
+    and record the output in your file 
+    
+- checkout that newly created branch so that you can work with it 
+(think of it as switching to that branch)
+
+    `git checkout another_branch`
+    
+- create a new file called `file_on_another_branch.md` and add some text to that file
+
+- add, commit and push the new branch to the remote  
+
+    `git push -u origin another_branch`
+    
+If the person running executing the above tasks run into any problems (any
+errors that required execution of other git commands), describe those errors in 
+the file matching that team member's name). 
+
+---
+
+Look at the GitHub page for the repository. 
+Switch between branches. Do they have the same files or different files?
+
+
+---
+# branching continued 
+
+__one member - different person than the previous step__
+
+.smaller[
+- run command below; is the new branch visible? 
+
+    `git branch`     
+- run command below; is the result different? 
+
+    `git branch -a`    
+- run command 
+    
+    `git checkout another_branch` 
+    
+    and then repeat the `git branch` command, how many branches do you see, which one is active? 
+    
+- modify the file `file_on_another_branch.md`  by adding
+a second line to it
+
+- add, commit and push changes to `another_branch`
+
+    ```
+    git add file_on_another_branch.md
+    git commit -m "more changes to the file"
+    git push origin another_branch
+    ``` 
+Go to the repository on GitHub and examine the content of the file that was just modified. Make sure that the changes are there. 
+]
+
+---
+# changes to master 
+
+__one member__
+
+- switch to the `master` branch
+
+    `git checkout master`
+
+- edit the README.md file by adding an extra line to it
+
+- add, commit and push changes to `master` branch
+
+    ```
+    git add READMEh.md
+    git commit -m "changes to README"
+    git push origin master
+    ``` 
+    
+__all other members__ (after the above is finished) 
+
+- switch to the `master` branch
+
+- run 
+
+    `git pull` 
+    
+    to incorporate changes made in the remote repository 
+
+---
+# check the logs 
+
+__each member__
+
+- run command 
+
+    `git log` 
+    
+    to see the list of all the commits
+    
+- run the following two versions of the log command to see different format
+of the log list
+
+    `git log --pretty=format:"%h - %an, %ar : %s"`
+
+    `git log --pretty=format:"%h %s" --graph`
+    
+    figure out what the different %? stand for 
+    
+    
+
+
+---
+# updating forks 
+
+Each member of the team has their own forks of the original repository. Those forks have not been updated yet with the most recent changes that were made to the `origin` repository.
+
+__each member__
+
+- run command 
+
+    `git status`
+
+    on your master branch; if there are any untracked changes, stage them and commit them
+    
+- push the current state of the repository to the remote that is your own fork 
+
+    `git push myfork master` 
+    
+    Check your fork on GitHub and make sure that the changes to the `README.md` file are visible. 
+
+
+---
+# merge branch changes
+
+__one member__
+
+
+- first pull the current state of master on origin to make sure that
+everything is up to date
+
+    `git pull`
+    
+- merge changes made in `another_branch` with master
+
+    `git merge --no-ff another_branch`
+    
+    Enter the merge message describing the reason for the merge. 
+    
+- run `git status` and record what it says
+    - do you need to stage and commit any changes? 
+    
+- run command
+
+    `git push origin master`
+    
+    to update the remote branch
+    
+---
+# delete the branch
+
+__one member - other tha the previous step__
+
+the `another_branch` is no longer needed so it can be removed
+
+- run
+
+    `git branch -d another_branch` 
+
+    `git branch`
+    
+    How many branches does your local repository have right now? 
+    
+- look at the GitHub repository; how many branches does it have? the `another_branch` is still there
+
+- run 
+
+    `git push origin --delete another_branch`
+    
+    to remove the branch from the remote
+    
+- check the updated commit/merge logs
+
+    `git log --pretty=format:"%h %s" --graph`
+    
+    
+    
+
+
+---
+# Sources and Extra Readings 
+
+
+- [_ProGit_](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub, 
+distributed under [Creative Commons Attribution Non Commercial Share Alike 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+
+
+    </textarea>
+     <script src="js/remark.js" type="text/javascript">
+    </script>
+    <script src="js/remark_conf.js" type="text/javascript">
+    </script>
+    
+  </body>
+</html>

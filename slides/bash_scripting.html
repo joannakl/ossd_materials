@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>bash</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link href="css/slides.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# CSCI-UA 480.10: OSSD
+
+<br>
+
+## bash
+
+.author[
+Instructor: Joanna Klukowska <br>
+]
+
+
+
+.license[
+Unless noted otherwise all content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+]
+
+---
+# not this kind of bash
+
+<img src="img/dictionary_definition.png" width="800" >
+
+
+---
+#  this kind of bash [bash](https://www.gnu.org/software/bash/)
+
+</br></br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="800" >
+</br></br>
+</br></br>
+.small[bash logo graphic from (https://commons.wikimedia.org/wiki/File:Gnu-bash-logo.svg)[https://commons.wikimedia.org/wiki/File:Gnu-bash-logo.svg] by Justindorfman,
+retrieved on March 28, 2018.  ]
+
+---
+# bash (Unix shell)
+
+- written by Brian Fox
+
+- replacement for the [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell)
+
+  - bash = __b__ourne __a__gain __sh__ell
+
+- first release in 1989
+
+- distributed with most Linux distributions and Allpe's macOs (and recently in
+the Microsoft's release of Unix subsystem within Windows 10) as the default shell
+
+- it is a command processor that runs in a text-based terminal window
+
+--
+
+- __interesting fact__
+
+  - [Shellshock](https://en.wikipedia.org/wiki/Shellshock_(software_bug))
+  bug was discovered in Sept. 2014
+  - the code vulnarability dated back to 1989
+
+---
+# a shell script
+
+- A _shell script_ is a text file containing a set of commands that are executed
+in order they are written in the script.
+
+- The script works with a particular shell ( _bash_ shell scripts, work with _bash shell_).
+
+- A _shell_ is basically the command line interface.
+
+- The _shell scripts_ are usually small programs that automate various tasks.
+
+
+---
+# running basic commands
+
+- almost anything you type at the terminal is a _bash_ command
+(well, some of them may be names of the programs to run, other's may be operating system's
+tools, but a large number of things that happen are either _bash_ commands or _bash_  scripts)
+
+- examples
+
+  ```
+  echo "Hello World"
+  echo $(whoami)
+  ```
+--
+
+  ```
+  which bash
+  ```
+--
+
+  ```
+  du -sh
+  ```
+---
+# first script
+
+- create a file consisting of the following lines
+
+```
+echo "Hello World"
+echo $(whoami)
+which $(whoami)
+```
+
+- name the file `first`
+--
+
+- in a terminal window (running bash), execute:
+
+```
+  sh first
+
+
+---
+
+---
+
+
+
+
+
+
+    </textarea>
+     <script src="js/remark.js" type="text/javascript">
+    </script>
+    <script src="js/remark_conf.js" type="text/javascript">
+    </script>
+
+  </body>
+</html>
