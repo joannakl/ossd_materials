@@ -1,4 +1,5 @@
-# project_evaluation
+# project_evaluation_activity
+
 
 In this activity you will evaluate an open source project.
 
