@@ -16,19 +16,11 @@ may be very hard to find. Do not _google_ for answers.
 
 __Project website:__
 
+
 __What is the purpose of the project:__
 
 
-
-
-
-
-
 __How easy was it to find information about contributing on the website?__
-
-
-
-
 
 
 __Contributing instructions:__
@@ -57,7 +49,7 @@ __URL for contributing instructions:__
 
 __URL for code of conduct / community norms / community guildelines:__
 
-__URL for instructions for users to download and istall the package:__
+__URL for instructions for users to download and install the package:__
 
 __Number of contributors:__
 
@@ -93,7 +85,7 @@ __Issues__
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicator ot=o imply that they
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they
 are good for beginner contributors:__
 
 
