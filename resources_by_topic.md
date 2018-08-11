@@ -43,6 +43,12 @@ Have good materials; need a way to make multiple versions easily accessible
 
 # FOSS business models
 
+
+- Wikipedia article: [Business models for open source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
+
+- [Emerging Business Models for Open Source Hardware](http://doi.org/10.5334/joh.4) by Joshua M. Pearce, Journal of Open Hardware, 2017.
+
+
 - Perhaps have a panel from various companies with different business models - video recording & written piece
 - Possible articles of interest (just off a quick google search, not vetted)
   - https://opensource.com/article/17/12/open-source-business-models
@@ -51,6 +57,4 @@ Have good materials; need a way to make multiple versions easily accessible
   - https://techcrunch.com/2016/02/09/the-money-in-open-source-software/
   - https://link.springer.com/chapter/10.1007/978-3-642-03132-8_2
 
-- Wikipedia article: [Business models for open source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
-
-- Greg has slides about how open sources fits into the IT business world
+- ??? Greg has slides about how open sources fits into the IT business world
