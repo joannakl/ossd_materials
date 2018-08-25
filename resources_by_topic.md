@@ -22,8 +22,13 @@ categories, or would like to add a category, feel free to make a pull request.
 
 
 # Course intro
- - Motivating learning about FOSS
- - Community building within the section
+Motivating learning about FOSS
+- Use of open source software by industry:
+  - movie industry:  [Academy Software Foundation will let filmmakers use open source creative software](https://venturebeat.com/2018/08/10/academy-software-foundation-will-let-filmmakers-use-open-source-creative-software/), [Academy Software Foundation](https://www.aswf.io/) website
+  - automobile industry:
+
+
+- Community building within the section
 
 
 # History
@@ -58,3 +63,5 @@ Have good materials; need a way to make multiple versions easily accessible
   - https://link.springer.com/chapter/10.1007/978-3-642-03132-8_2
 
 - ??? Greg has slides about how open sources fits into the IT business world
+
+- [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
