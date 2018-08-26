@@ -40,8 +40,8 @@ footer-links:
 url: "https://COURSE_NAME.io/weekly"
 
 # CUSTOMIZE
-# Replace this with the name of your own repository.
-# It should be  "/YOUR_ID-weekly" followed by your username.
+# Replace "/weekly" by the name of your own repository.
+# ex.,  "/YOUR_ID-weekly"
 baseurl: "/weekly"
 
 #
