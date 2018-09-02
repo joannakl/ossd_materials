@@ -38,6 +38,8 @@ Have good materials; need a way to make multiple versions easily accessible
 
 -  Ask Karen Sandler to record a video about licensing
 
+- [Open-source licensing war: Commons Clause](http://flip.it/6AvkV9)
+
 # Version control
 
 - Need for Git workflow -  https://www.katacoda.com/
