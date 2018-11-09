@@ -26,6 +26,9 @@ Motivating learning about FOSS
 - Use of open source software by industry:
   - movie industry:  [Academy Software Foundation will let filmmakers use open source creative software](https://venturebeat.com/2018/08/10/academy-software-foundation-will-let-filmmakers-use-open-source-creative-software/), [Academy Software Foundation](https://www.aswf.io/) website
   - automobile industry:
+  - healthcare: [FDA's MyStudies Application](https://www.fda.gov/Drugs/ScienceResearch/ucm624785.htm),
+  [their GitHub repo](https://github.com/PopMedNet-Team/FDA-My-Studies-Mobile-Application-System), 
+  article from Healthcate IT News: [FDA unveils open source code for collecting patient data](https://www.healthcareitnews.com/news/fda-unveils-open-source-code-collecting-patient-data)
 
 
 - Community building within the section
