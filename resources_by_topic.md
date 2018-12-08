@@ -18,6 +18,12 @@ categories, or would like to add a category, feel free to make a pull request.
  * [Licenses](#licenses)
  * [Version control](#version-control)
  * [FOSS business models](#foss-business-models)
+ 
+ * [Companies working with open source](#companies-working-with-open-source)
+ * [Non-profits working with open source](#non-profits-working-open-source) 
+ * [Code of conduct documents](#code-of-conduct-documents)
+ 
+ 
 
 
 
@@ -70,3 +76,21 @@ Have good materials; need a way to make multiple versions easily accessible
 - ??? Greg has slides about how open sources fits into the IT business world
 
 - [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
+
+
+# Companies working with open source
+
+- Airbnb: [projects](https://airbnb.io/projects/)
+- Google
+- Microsoft 
+
+
+# Non-profits working with open source 
+
+- NASA: [projects](https://code.nasa.gov) 
+
+# Code of conduct documents
+
+- [Go Community Code of Conduct](https://golang.org/conduct) 
+- [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) 
+
