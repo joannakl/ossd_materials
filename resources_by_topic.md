@@ -80,14 +80,15 @@ Have good materials; need a way to make multiple versions easily accessible
 
 # Companies working with open source
 
-- Airbnb: [projects](https://airbnb.io/projects/)
+- Airbnb [projects](https://airbnb.io/projects/)
+- Facebook [projects](https://opensource.fb.com/) 
 - Google
 - Microsoft 
 
 
 # Non-profits working with open source 
 
-- NASA: [projects](https://code.nasa.gov) 
+- NASA [projects](https://code.nasa.gov) 
 
 # Code of conduct documents
 
