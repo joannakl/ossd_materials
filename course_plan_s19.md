@@ -12,7 +12,16 @@ more `git` experience should be the recorder, the person with less experience sh
 
 
 [GitHub workflow activity](https://github.com/StoneyJackson/github-workflow-activity) - starts with the slides, then 
-students work in groups of 2-3 (forks, branches, pull requests, pulling changes from upstream) 
+students work in groups of 2-__3__ (forks, branches, pull requests, pulling changes from upstream) 
+
+## Build your own plugin workshop
+
+Students work in groups of 2-__3__ to build a plugin for Firefox that they then contribute back to the community. 
+
+https://mozillacampusclubs.github.io/teach-how-to-build-addons/
+https://docs.google.com/presentation/d/1C0YbS15YO_JbH8dY_4nhPZWTtJOPe2Fx8GRyZjPCAgs/edit#slide=id.g21fd32c2e9_1_27
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
+
 
 ## Licenses 
 
