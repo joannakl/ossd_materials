@@ -1,6 +1,11 @@
 
 # Course Plan, Spring 2019
 
+## Weekly blogs and collaboration
+
+Students work on their weekly blog posts.
+
+Students report issues and submit fixes to each other's blog. 
 
 
 ## `git` / GitHub exercises 
