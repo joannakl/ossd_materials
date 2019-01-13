@@ -5,9 +5,15 @@ This is a collection of interesting talks given at various conferences and meeti
 
 __Good for teaching:__
 
-- Tom Callaway - [This Is Why You FAIL](https://www.youtube.com/watch?v=fRk97h1FLow), 2011 SouthEast LinuxFest (53 minutes)
+_Motivation:_
+- Eric Schabell - [How to jump start a career in open source](https://www.youtube.com/watch?v=9X6HYoTl3K0), (5 min) - talks about open source being about sharing
+
+_Licenses:_ 
 - Tom Callaway - [Understanding FOSS licenses (without a lawyer)](https://www.youtube.com/watch?v=PTYuDrQpyH0), SCALE 13x (Southern California Linux Expo) (1hr 2min) 
 - Kevin P. Fleming [A Crash Course in Open Source Licensing](https://www.youtube.com/watch?v=cJIi-hIlCQM&feature=youtu.be), CppCon 2015 (1hr 25min)
+
+_Other:_
+- Tom Callaway - [This Is Why You FAIL](https://www.youtube.com/watch?v=fRk97h1FLow), 2011 SouthEast LinuxFest (53 minutes)
 
 __Other useful/interesting talks:__
 
