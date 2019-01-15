@@ -64,6 +64,7 @@ Have good materials; need a way to make multiple versions easily accessible
 
 - [Emerging Business Models for Open Source Hardware](http://doi.org/10.5334/joh.4) by Joshua M. Pearce, Journal of Open Hardware, 2017.
 
+- [Musings on business models for open source software](https://spot.livejournal.com/327801.html) by Tom (spot) Callaway 
 
 - Perhaps have a panel from various companies with different business models - video recording & written piece
 - Possible articles of interest (just off a quick google search, not vetted)
