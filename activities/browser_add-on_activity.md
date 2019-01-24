@@ -1,6 +1,6 @@
 # Browser Add-on Activity
 
-Note1: stedents work in groups of 3. The instructions indicate which parts of this activity should be performed 
+Note1: students work in groups of 3. The instructions indicate which parts of this activity should be performed 
 by all team-members and which should be performed by one one team member. 
 
 Note2: students do not need to be familiar with Javascript in order to complete this activity 
