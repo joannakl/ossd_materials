@@ -174,14 +174,14 @@ __Check in with your facilitator before continuing.__
 
 1. Your team's goal is to have the _contributor_ fix one of the existing issues. __It should be the issue about
 the best NYU classes.__ <br>
-Follow the __[Contribution Workflow](contribution-workflow.md)__ to accomplish this goal.
-<br><br>
-__Report__<br>
-In the README file in this repository list couple of things that
-you learned when completing the above steps and/or description of
-problems you encountered.
-<br>
-__Check in with your facilitator before continuing.__
+    Follow the __[Contribution Workflow](contribution-workflow.md)__ to accomplish this goal.
+    <br><br>
+    __Report__<br>
+    In the README file in this repository list couple of things that
+    you learned when completing the above steps and/or description of
+    problems you encountered.
+    <br>
+    __Check in with your facilitator before continuing.__
 
 
 
@@ -207,14 +207,16 @@ __Check in with your facilitator before continuing.__
 
 
 3. Again, everyone plays the roles of a _contributor_ and a _maintainer_, but never serves as a _maintainer_ for their own PR.
-
-  Fix the two latest issues in parallel (done by the least experienced users in the groups of three). The submission of   pull requests for these two issues should result in a merge conflict (since both issues require you to modify the same files).
-Follow the __[Contribution Workflow](contribution-workflow.md)__ to accomplish this goal.
-<<br><br>
-__Report__
-
-In the README file in this repository list couple of things that
-you learned when completing the above steps and/or description of
-problems you encountered.
-
-__Check in with your facilitator before continuing.__
+    <br>
+     Fix the two latest issues in parallel (done by the least experienced users in the groups of three). 
+     The submission of   pull requests for these two issues should result in a merge conflict 
+     (since both issues require you to modify the same files).
+    Follow the __[Contribution Workflow](contribution-workflow.md)__ to accomplish this goal.
+    <br><br>
+    __Report__
+    <br>
+    In the README file in this repository list couple of things that
+    you learned when completing the above steps and/or description of
+    problems you encountered.
+    <br>
+    __Check in with your facilitator before continuing.__
