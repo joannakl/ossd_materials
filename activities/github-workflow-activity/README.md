@@ -149,12 +149,12 @@ creates at least one of the issues.
     The issues reported for this step have to do with missing files that should contain
     some information about the team. Each issue should state the name of the missing file
     and describe its content.
-  - `best_classes.txt` - should be a list of the best classes that each team member took
-    while in NYU (you can make it up)
-  - `dream_job.txt` - should contain, for each team member, a description of your dream job
-    for after graduation (optionally you can list names of the company as well)
-  - `best_food.txt` - should contain a list of the team members' favorite food places
-    on campus
+      - `best_classes.txt` - should be a list of the best classes that each team member took
+        while in NYU (you can make it up)
+      - `dream_job.txt` - should contain, for each team member, a description of your dream job
+        for after graduation (optionally you can list names of the company as well)
+      - `best_food.txt` - should contain a list of the team members' favorite food places
+        on campus
 
 
 
@@ -175,45 +175,42 @@ __Check in with your facilitator before continuing.__
 1. Your team's goal is to have the _contributor_ fix one of the existing issues. __It should be the issue about
 the best NYU classes.__ <br>
 Follow the __[Contribution Workflow](contribution-workflow.md)__ to accomplish this goal.
-
-
-__Report__
-
+<br><br>
+__Report__<br>
 In the README file in this repository list couple of things that
 you learned when completing the above steps and/or description of
 problems you encountered.
-
+<br>
 __Check in with your facilitator before continuing.__
 
 
 
 2. This time, everyone is a _contributor_ and a _maintainer_. However, you cannot serve as a _maintainer_ for you own PR.  Follow the __Contribution Workflow__ in parallel to accomplish the following:
-  - fix the remaining two issues (in groups of three, the person who already fixed an issue should work along
-    side with the other two members)
-  - the people acting as maintainers should not accept these pull requests right away - they should request some
-    revisions (e.x., no chain stores like Starbucks are allowed in the favorite food places list)
-  - (after the above issues are fixed) report a couple of new issue (this should be done by the least experienced git user):
-        - all three files should be in alphabetical order
-        - all three files should contain names of the team members next to their entries
+      - fix the remaining two issues (in groups of three, the person who already fixed an issue should work along
+        side with the other two members)
+      - the people acting as maintainers should not accept these pull requests right away - they should request some
+        revisions (e.x., no chain stores like Starbucks are allowed in the favorite food places list)
+      - (after the above issues are fixed) report a couple of new issue (this should be done by the least 
+        experienced git user):
+                - all three files should be in alphabetical order
+                - all three files should contain names of the team members next to their entries
 
 
-__Report__
+    __Report__
 
-In the README file in this repository list couple of things that
-you learned when completing the above steps and/or description of
-problems you encountered.
+    In the README file in this repository list couple of things that
+    you learned when completing the above steps and/or description of
+    problems you encountered.
 
-__Check in with your facilitator before continuing.__
+    __Check in with your facilitator before continuing.__
 
 
 
 3. Again, everyone plays the roles of a _contributor_ and a _maintainer_, but never serves as a _maintainer_ for their own PR.
 
-Fix the two latest issues in parallel (done by the least experienced users in the groups of three). The submission of pull requests for these two issues should result in a merge conflict (since both issues require you to modify the same files).
+  Fix the two latest issues in parallel (done by the least experienced users in the groups of three). The submission of   pull requests for these two issues should result in a merge conflict (since both issues require you to modify the same files).
 Follow the __[Contribution Workflow](contribution-workflow.md)__ to accomplish this goal.
-
-
-
+<<br><br>
 __Report__
 
 In the README file in this repository list couple of things that
