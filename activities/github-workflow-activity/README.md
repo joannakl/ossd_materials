@@ -28,7 +28,7 @@ __On GitHub__
 
 Assign the role of __maintainer__ to one of the group members: this should be the a person with some git experience (someone with ranking of 2 or 3 above).
 
-1. Click the __Repository__ tab to view the repositories of the organization.
+1. Click the __Repository__ tab to view the repositories of the course organization.
 1. Click the big green __Create a new repository__ button. (If you already have a repository in this organization, click the green __New__ button.)
 2. Name the repository `TEAM_NAME-workflow` (where TEAM_NAME is replaced with your chosen name).
 3. Optionally add a description.
@@ -37,7 +37,8 @@ Assign the role of __maintainer__ to one of the group members: this should be th
 6. Optionally add a .gitignore (not necessary for this activity).
 7. Add an open source license (unless you have a strong opinion, for now choose __GNU Public License v3.0__).
 8. Click the big green __Create repository__ button
-9. In your shared editor, make a note of the URL of the repository's homepage.
+
+
 
 Congratulations! You have created your team's first repository.
 
