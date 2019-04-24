@@ -10,18 +10,14 @@ This image is licensed under the Creative Commons Attribution-Share Alike 4.0 In
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_37-39_HDR.jpg" 
-       alt="Smiley face" width="42"> 
+<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" width="42"> 
        
        
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_37-39_HDR.jpg" 
-       alt="Smiley face" width="300"  align="middle"> 
+<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" width="300"  align="middle"> 
        
        
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_37-39_HDR.jpg" 
-       alt="Smiley face" height="300"  align="right"> 
+<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  align="right"> 
        
        
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-12%2C_DD_37-39_HDR.jpg" 
-       alt="Smiley face" height="300"  align="right"> 
+<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  align="right"> 
        
