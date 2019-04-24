@@ -9,25 +9,17 @@ Author: Diego Delso
 This image is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. 
 
 
-
-<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" width="42"> 
-
-<br/>
-<!--       
 <img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" width="300"  align="left"> 
      
-<br/>  
-       
-<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  align="middle"> 
        
      
-<br/>
+<p>
 
 <img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  align="right"> 
        
 
-<br/>       
--->
+<p>      
+
        
 <p align="center">
 <img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  > 
