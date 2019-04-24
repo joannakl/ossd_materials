@@ -13,11 +13,17 @@ This image is licensed under the Creative Commons Attribution-Share Alike 4.0 In
 <img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" width="42"> 
        
        
-<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" width="300"  align="center"> 
+<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" width="300"  align="left"> 
+       
+       
+<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  align="middle"> 
        
        
 <img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  align="right"> 
        
        
-<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  align="right"> 
+
        
+<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  style="width:40%; margin-left: auto; margin-right: auto; display:block"> 
+       
+              
