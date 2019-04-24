@@ -29,6 +29,7 @@ This image is licensed under the Creative Commons Attribution-Share Alike 4.0 In
 <br/>       
 -->
        
-<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  style="width:40%; margin-left: auto; margin-right: auto; display:block"> 
-       
+<p align="center">
+<img src="basilica.jpg"        alt="Interior of the Notre-Dame Basilica" height="300"  > 
+</p>        
               
