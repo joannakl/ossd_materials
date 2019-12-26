@@ -34,7 +34,7 @@ course website.  :white_check_mark:
 
 - [GitHub Workflow Activity](github-workflow-activity), approximately 1hr, assumes that students are
 familiar with the basics of git, exposes students to ideas of merge
-conflicts, branches, ... :construction:
+conflicts, branches, ... :white_check_mark:  
 
 
 - [Wiki](wiki_activity.md), approximately 1hr, students are exposed to
