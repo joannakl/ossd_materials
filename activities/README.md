@@ -19,7 +19,7 @@ The following symbols are used to indicate the status of each activity:
 - [Browser Add-on Activity](browser_add-on_activity.md), approximately 1hr in class + the time for each group to complete 
 their simple add-on; good for start of the semester, assumes minimal familiarity with Javascript; introduces students to the structure of open source projects, need for documentation, licensing, code of conduct and concludes with a collaborative  mini-project of their own.  :white_check_mark: <br>  
 possible followups to this activity: 
-  - students present their own browser add-on in class (5-10 minutes demo) 
+  - students present their own browser add-on in class (5-10 minutes demo) - this should include discussion of the License they picked, installation instrucitons and contributing documents, etc. 
   - students contribute to the projects created by other groups  
 
 - [Code of Conduct](code_of_conduct_activity.md), approximately 1hr,
