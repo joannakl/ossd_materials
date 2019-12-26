@@ -32,7 +32,7 @@ to work on.  :white_check_mark:
 over the course of 2 weeks, students collaborate on the source code for the
 course website.  :white_check_mark:    
 
-- [Git](git_activity.md), approximately 1hr, assumes that students are
+- [GitHub Workflow Activity](github-workflow-activity), approximately 1hr, assumes that students are
 familiar with the basics of git, exposes students to ideas of merge
 conflicts, branches, ... :construction:
 
