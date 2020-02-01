@@ -12,7 +12,7 @@ Prerequisites:
   <details markdown="1">
   <summary markdown="1">see how </summary>
   <p markdown="1">
-  For download and install instructions and for a __list__ of available graphical interfaces
+  For download and install instructions and for a list of available graphical interfaces
   see the [git-scm.com](https://git-scm.com/downloads) site.
   </p>
   </details>
