@@ -5,26 +5,17 @@ by all team-members and which should be performed by one team member.
 
 Note2: students do not need to be familiar with Javascript in order to complete this activity
 
-- bullet 
-  <details><summary>CLICK ME</summary>
-  <p>
-
-  #### yes, even hidden code blocks!
-  
-  ```python
-  print("hello world!")
-  ```
-
-  </p>
-  </details>
 
 Prerequisites:
 - Firefox should be installed on your system
 - you should have Git installed on your system if it is not there already, <br>
-  <details><summary>see how </summary><p>
-  For download and install instructions and for a list of available graphical interfaces
+  <details markdown="1">
+  <summary markdown="1">see how </summary>
+  <p markdown="1">
+  For download and install instructions and for a __list__ of available graphical interfaces
   see the [git-scm.com](https://git-scm.com/downloads) site.
-  </p></details>
+  </p>
+  </details>
 - you should have Git configured on your system to _know who you are_,
   <details><summary>see how </summary>
   <p>
