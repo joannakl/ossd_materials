@@ -12,8 +12,10 @@ Prerequisites:
   <details markdown="1">
   <summary markdown="1">see how </summary>
   <p markdown="1">
+  
   For download and install instructions and for a list of available graphical interfaces
   see the [git-scm.com](https://git-scm.com/downloads) site.
+  
   </p>
   </details>
 - you should have Git configured on your system to _know who you are_,
