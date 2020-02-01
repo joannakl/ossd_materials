@@ -5,23 +5,41 @@ by all team-members and which should be performed by one team member.
 
 Note2: students do not need to be familiar with Javascript in order to complete this activity
 
+- bullet 
+  <details><summary>CLICK ME</summary>
+  <p>
+
+  #### yes, even hidden code blocks!
+  
+  ```python
+  print("hello world!")
+  ```
+
+  </p>
+  </details>
+
 Prerequisites:
 - Firefox should be installed on your system
-- you should have Git installed on your system if it is not there already, br>
+- you should have Git installed on your system if it is not there already, <br>
   <details><summary>see how </summary><p>
   For download and install instructions and for a list of available graphical interfaces
   see the [git-scm.com](https://git-scm.com/downloads) site.
   </p></details>
-- you should have Git configured on your system to _know who you are_, <br>
-  <details><summary>see how </summary><p>
+- you should have Git configured on your system to _know who you are_,
+  <details><summary>see how </summary>
+  <p>
   Run the following commands from the command line:<br>
-     ```git config --global user.email "YOUR_EMAIL"```<br>
-     ```git config --global user.name "YOUR NAME"```<br>
-     (The email should be the same email you used to register your GitHub account. Your name should be your name or nickname    - just make sure that it is proper and recognizable since it will be associated with all of your commits.  It can be your GitHub username. ) <br>
-     For example, <br>
-    ```git config --global user.email "joannakl@cs.nyu.edu"```<br>
-    ```git config --global user.name "JoannaKl"```<br>
-      <br>
+    
+  ```
+  git config --global user.email "YOUR_EMAIL"
+  git config --global user.name "YOUR NAME"
+  ```
+  (The email should be the same email you used to register your GitHub account. Your name should be your name or nickname      - just make sure that it is proper and recognizable since it will be associated with all of your commits.  It can be your GitHub username. ) <br>
+  For example, <br>
+
+  ```git config --global user.email "joannakl@cs.nyu.edu" 
+  git config --global user.name "JoannaKl"```<br>
+  ```
   </p></details>
 
 
