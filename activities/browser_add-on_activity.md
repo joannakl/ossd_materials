@@ -12,17 +12,17 @@ Prerequisites:
   <details markdown="1">
   <summary markdown="1">see how </summary>
   <p markdown="1">
-  
+
   For download and install instructions and for a list of available graphical interfaces
   see the [git-scm.com](https://git-scm.com/downloads) site.
-  
+
   </p>
   </details>
 - you should have Git configured on your system to _know who you are_,
   <details><summary>see how </summary>
   <p>
   Run the following commands from the command line:<br>
-    
+
   ```
   git config --global user.email "YOUR_EMAIL"
   git config --global user.name "YOUR NAME"
@@ -31,7 +31,7 @@ Prerequisites:
   For example, <br>
 
   ```
-  git config --global user.email "joannakl@cs.nyu.edu" 
+  git config --global user.email "joannakl@cs.nyu.edu"
   git config --global user.name "JoannaKl"```<br>
   ```
   </p></details>
@@ -51,7 +51,7 @@ you will be using during this activity.
 
 When you are __all__ done, let the facilitator know.
 
-## Part 2: Creating and installing a more sofisticated extension
+## Part 2: Creating and installing a more sophisticated extension
 
 - locate the _Your second extension_ link under the _Getting Started Section_ in the
 [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) tutorial
