@@ -1,4 +1,6 @@
 
+Copyright Stewart Weiss 2020.
+
 This repository is derived from https://github.com/joannakl/ossd_materials
 created by Joanna Klukowska, used under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
 
