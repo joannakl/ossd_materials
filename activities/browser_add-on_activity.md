@@ -28,7 +28,8 @@ Prerequisites:
   (The email should be the same email you used to register your GitHub account. Your name should be your name or nickname      - just make sure that it is proper and recognizable since it will be associated with all of your commits.  It can be your GitHub username. ) <br>
   For example, <br>
 
-  ```git config --global user.email "joannakl@cs.nyu.edu" 
+  ```
+  git config --global user.email "joannakl@cs.nyu.edu" 
   git config --global user.name "JoannaKl"```<br>
   ```
   </p></details>
