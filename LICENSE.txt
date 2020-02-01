@@ -1,11 +1,10 @@
 
+This repository is derived from https://github.com/joannakl/ossd_materials
+created by Joanna Klukowska, used under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
 
-
-
-UNLESS OTHERWISE NOTED, THE CONTENTS OF THIS REPOSITORY ARE LICENSED
-UNDER THE CREATIVE COMMONS ATTRIBUTION-SHARE ALIKE 4.0 INTERNATIONAL LICENSE
-
-
+Unless otherwise noted, the contents of this repository are licensed
+under the Creative Commons Attribution-Share Alike 4.0 International license
+by Stewart Weiss.
 
 
 Attribution-ShareAlike 4.0 International
