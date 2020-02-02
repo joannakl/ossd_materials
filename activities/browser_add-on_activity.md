@@ -67,10 +67,10 @@ When you were working on the previous part, you should have encountered referenc
 Go to that repository and locate the following files: LICENSE, README.md, CONTRIBUTING.md, and CODE_OF_CONDUCT.md.
 Answer the questions below as a team. Your answers should be placed under the heading
 _Part 3_ in a file named
-`team_NUMBER.md` (where `NUMBER` is replaced by your team number) in the repository called `firefox-addon-activity` in the
+`team_NUMBER.md` (where `NUMBER` is replaced by your team number) that your team should create in the repository named `firefox-addon-activity` in the
 course organization.
 
-1. What is the purpose of the `README.md` file? What kind of information should be included there?
+1. What is the purpose of the `README.md` file? What kind of information should be included in it?
 2. What is the purpose of the `LICENSE` file? Does it need to be in a repository?
 3. What is the purpose of the `CONTRIBUTING.md` file?
 4. Describe one type of contribution to this repository that does not require writing any code.
@@ -82,8 +82,8 @@ When your group is done, let the facilitator know.
 
 ## Part 4: Explore existing extensions
 
-Go to [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/) page. As a team, decide on your _favorite_
-extension. List the name and the link to that extension in your team's file in the `firefox-addon-activity` repository
+Go to the [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/) page. As a team, decide on your _favorite_
+extension. Write its name and the link to that extension in your team's file in the `firefox-addon-activity` repository
 under the heading _Part 4_. Then answer the following questions about your chosen extension.
 
 1. What is the homepage for the extension?
@@ -94,14 +94,20 @@ under the heading _Part 4_. Then answer the following questions about your chose
 
 When your group is done, let the facilitator know.
 
-## Part 5: Create your own
+## Part 5: Create your own extension
 
-As a team, create an idea for an extension. It can be a very simple one, or a more complicated one (this idea can
-evolve in the course of this semester).
+As a team, create an idea for an extension. It can be a very simple one, or a more complicated one.
 
-- Create a public repository in the class organization with the name of your extension. In your team's file for `firefox-addon-activity`
-provide a link to that repository under the heading _Part 5_.
-- Create a README.md file with a description of the idea for your extension.
+- Create a public repository in the class organization with the name of your extension.
+In your team's file in the `firefox-addon-activity`, provide a link to that repository under the heading _Part 5_.
+- Create a `README.md` file with a description of the idea for your extension.
 - Create other files that will make this an open soure project.
 
 When your group is done, let the facilitator know.
+
+#### Copyright and Licensing
+
+This activity is derived from an activity at [https://github.com/joannakl/ossd_materials/tree/master/activities](https://github.com/joannakl/ossd_materials/tree/master/activities)
+created by Joanna Klukowska, used under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), with essentially no changes.
+
+Copyright Stewart Weiss 2020. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This Firefox Add-on Activity</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Stewart Weiss</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
