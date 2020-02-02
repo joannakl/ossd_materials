@@ -96,7 +96,7 @@ When your group is done, let the facilitator know.
 ## Part 5: Create your own
 
 As a team, create an idea for an extension. It can be a very simple one, or a more complicated one (this idea can
-evolve in the course of this semester).
+evolve/change after today, so do not worry about having everything finalized).
 
 - Create a repository in the class organization with the name of your extension. In your team's file for `activity1`
 provide a link to that repository under heading _Part 5_.
