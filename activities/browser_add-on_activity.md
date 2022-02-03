@@ -66,7 +66,7 @@ When you were working on the previous part, you should have encountered referenc
 [MDN WebExtension repository](https://github.com/mdn/webextensions-examples).
 Go to that repository and locate the following files: LICENSE, README.md, CONTRIBUTING.md, and CODE_OF_CONDUCT.md.  Answer the questions below as a team. Your answers should be placed under heading
 _Part 3_ in a file called
-`team_NUMBER.md` (where `NUMBER` is replaced by your team number) in the repository called `activity1` in the
+`team_NUMBER.md` (where `NUMBER` is replaced by your team number) in the repository called `add-on-activity` in the
 course organization.
 
 1. What is the purpose of the README.md file? What kind of information should be included there?
@@ -82,7 +82,7 @@ When your group is done, let the facilitator know.
 ## Part 4: Explore existing extensions  
 
 Go to [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/) page. As a team, decide on your _favorite_
-extension. List the name and the link to that extension in your team's file in the `activity1` repository
+extension. List the name and the link to that extension in your team's file in the `add-on-activity` repository
 under the heading _Part 4_. Then answer the following questions about your chosen extension.
 
 1. What is the homepage for the extension?
@@ -98,7 +98,7 @@ When your group is done, let the facilitator know.
 As a team, create an idea for an extension. It can be a very simple one, or a more complicated one (this idea can
 evolve/change after today, so do not worry about having everything finalized).
 
-- Create a repository in the class organization with the name of your extension. In your team's file for `activity1`
+- Create a repository in the class organization with the name of your extension. In your team's file for `add-on-activity`
 provide a link to that repository under heading _Part 5_.
 - Create a README.md file with a description of the idea for your extension.
 - Create other files that will make this an open soure project.
