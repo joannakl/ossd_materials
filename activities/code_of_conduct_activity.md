@@ -40,7 +40,7 @@ Is this document based on another code of conduct?
 
 ### Part 3
 
-Pick an open source project. (It could be a project that you are working on, or
+Pick an open source project. (It could be a project that you are familiar with, or
 a project that you are interested in, or something you encountered in one of the
 class discussions). Try to find the code of conduct document for that project.
 Note that it may not have a code of conduct or that it may be called differently.
